@@ -1,0 +1,84 @@
+h1{
+    color: rgb(8, 80, 80);
+}
+a{
+    color: rgb(47, 65, 65);
+}
+li{
+    list-style: square;
+}
+h2.special{
+    color: black;
+}
+li.special{
+    color:aquamarine ;
+
+}
+li em{
+    color:rgb(255, 196, 252);
+}
+h2+ol{
+    color:rgb(160, 73, 16)
+}
+a:hover{
+    color:brown;
+    text-decoration: none;
+}
+ ul li.special{
+    color: rgb(189, 96, 9);
+}
+li#one{
+    color:blue
+}
+li#two{
+    color:chartreuse
+}
+li[id="two"]{
+  
+    color:chocolate
+}
+nav a{
+    text-decoration: none;
+    color:yellowgreen;
+    text-align: center;
+    padding: 20px;
+    float:left;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+
+}
+nav a:hover{
+    color: brown;
+}
+nav a:visited{
+    color: blue;
+}
+ul li{
+    list-style-type: circle;
+    list-style-position: inside;
+    
+    
+}
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    border-width: 5;
+    border-spacing: 5px;
+}
+th{
+    background-color: aqua;
+}
+td{
+    background-color: brown;
+}
+ol#A li{
+    background-color: aqua;
+}
+ol#A li{
+    background-color: rgb(162, 0, 255);
+}
+
+

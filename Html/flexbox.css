@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+div{
+    height:100px;
+    width:100px;
+    display: inline-block;
+    border: 2px solid rgb(189, 174, 174);
+    margin:auto;
+    
+}
+#container{
+    width: 1000px;
+    height: 200px;
+    display: flex;
+}
+
+#box1{
+    background-color: aqua;
+}
+#box1{
+    background-color: rgb(70, 45, 182);
+}
+#box1{
+    background-color:beige;
+}
+#box1{
+    background-color: rgb(202, 26, 108);
+}
+#box1{
+    background-color: rgb(236, 240, 45);
+}
